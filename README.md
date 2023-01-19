@@ -1,2 +1,2 @@
 # token
-android studio : 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
+android studio : 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
